@@ -2,7 +2,7 @@
 <h3 align="center">🛠️ Data Engineer & ML Developer · 🎓 Mastère Architecte en Intelligence Artificielle</h3>
 
 <p align="center">
-  <em>L'École Multimédia — Promo AIA01</em>
+  <em>L'École Multimédia — Promo AIA02</em>
 </p>
 
 <p align="center">
