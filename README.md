@@ -2,11 +2,11 @@
 <h3 align="center">🛠️ Data Engineer & ML Developer · 🎓 Mastère Architecte en Intelligence Artificielle</h3>
 
 <p align="center">
-  <em>L'École Multimédia — Promo AIA02</em>
+  <em>L'École Multimédia — Promo AIA01</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+ML+Developer;Pipeline+ETL+%7C+Cloud+AWS+%7C+Data+Lake;Machine+Learning+%7C+PySpark+%7C+Streamlit;En+formation+%3A+Architecte+en+Intelligence+Artificielle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+ML+Developer;Pipeline+ETL+%7C+Cloud+AWS+%7C+Data+Lake+&+Warehouse;Machine+Learning+%7C+PySpark+%7C+Streamlit;En+formation+%3A+Architecte+en+Intelligence+Artificielle" alt="Typing SVG" />
 </p>
 
 ---
