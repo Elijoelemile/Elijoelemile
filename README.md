@@ -30,6 +30,9 @@ de l'extraction des données brutes jusqu'à la visualisation et la prise de dé
   <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white"/>
 </p>
 
 ### 🤖 Machine Learning & IA
@@ -42,6 +45,7 @@ de l'extraction des données brutes jusqu'à la visualisation et la prise de dé
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mistral_AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white"/>
 </p>
 
 ### 📊 Visualisation & Déploiement
@@ -57,6 +61,32 @@ de l'extraction des données brutes jusqu'à la visualisation et la prise de dé
 ---
 
 ## 🚀 Projets phares
+
+### 🏀 Analyse & Prédiction de Revenus — Paris Basketball
+> Pipeline ELT complet (Extract → Load → Stage → Transform) sur cluster Spark conteneurisé, avec modélisation en schéma en étoile, prédiction de revenus et dashboards interactifs
+> Orchestrateur Python planifié quotidiennement, couche "gold" agrégée, résumés générés par IA (API Mistral) sans besoin de relancer le pipeline
+>
+> ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+> ![Mistral](https://img.shields.io/badge/Mistral_AI-FA520F?style=flat&logo=mistralai&logoColor=white)
+>
+> 🔗 [Voir le projet](https://github.com/Elijoelemile/Analyse_et_Prediction_de_Revenus_de_Paris_basketball_CHEF_DE_PROJET_DATA_ET_DIGITAL)
+
+---
+
+### ✈️ Optimisation de la Performance Commerciale — Yield Management
+> Application d'analyse pour un tour-opérateur (NG Travel) : ~18 600 réservations sur 2 saisons, pipeline ETL (Excel → Data Lake → Data Warehouse Parquet), enrichissement de 17 à 41 variables
+> 8 pages d'analyse (tendances temporelles, destinations, canaux de distribution, pricing, recommandations) + copilote IA en langage naturel (API Mistral)
+>
+> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+> ![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat&logo=apacheparquet&logoColor=white)
+> ![Mistral](https://img.shields.io/badge/Mistral_AI-FA520F?style=flat&logo=mistralai&logoColor=white)
+>
+> 🔗 [Voir le projet](https://github.com/Elijoelemile/Optimisation_de_la_performance_commerciale_YIELD_ANALYST)
+
+---
 
 ### ☁️ Infrastructure Data Cloud — AWS ETL Pipeline
 > Pipeline ETL complet : scraping + API → 🗄️ Data Lake S3 → 📦 Data Warehouse RDS PostgreSQL → 📊 analyses interactives
@@ -116,6 +146,38 @@ de l'extraction des données brutes jusqu'à la visualisation et la prise de dé
 
 ---
 
+### 📊 Analyse de Ventes — Graphiques Interactifs Streamlit
+> Application Streamlit d'exploration de données de ventes (produit, prix unitaire, quantité vendue), déployée en production
+>
+> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+> [![Live](https://img.shields.io/badge/Application_Live-00C853?style=flat&logo=googlechrome&logoColor=white)](https://vizpourlesventes.streamlit.app/)
+>
+> 🔗 [Voir le projet](https://github.com/Elijoelemile/ANALYSE_DE_VENTE_AVEC_GRAPHIQUES_INTERACTIFS_STREAMLIT)
+
+---
+
+### 📉 Analyse Descriptive d'un Dataset — Statistiques
+> Application des concepts de statistique descriptive (tendance centrale, dispersion, position, forme) sur un dataset de qualité du vin
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+> ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+>
+> 🔗 [Voir le projet](https://github.com/Elijoelemile/ANALYSE_DESCRIPTIVE_DUN_DATASET)
+
+---
+
+### 🗄️ Requêtage de Gros Volumes de Données — SQL & Agrégation
+> Manipulation de grandes bases de données relationnelles avec clés primaires/étrangères, jointures via tables pivot et logique métier extraite par agrégation, sur moteur chDB (ClickHouse)
+>
+> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+>
+> 🔗 [Voir le projet](https://github.com/Elijoelemile/REQUETAGE_DE_GROS_VOLUMES_DE_DONNEES-_LOGIQUE_METIER_TROUVE_SUR_DES_TABLES-_ANALYSE_AVEC_AGGREGATION)
+
+---
+
 ### 🔍 APP-QC — Contrôle qualité & comparaison de fichiers
 > Application de contrôle qualité pour la comparaison et la validation de fichiers de données
 >
@@ -128,8 +190,8 @@ de l'extraction des données brutes jusqu'à la visualisation et la prise de dé
 ## 🔭 Ce sur quoi je travaille actuellement
 
 - 🚢 **MLOps** : déploiement de modèles ML en production, monitoring avec MLflow / Evidently AI
-- 🤖 **LLMs & IA Générative** : exploration des modèles de langage et des architectures RAG
-- 🔄 **Orchestration** : pipelines automatisés avec Airflow
+- 🤖 **LLMs & IA Générative** : intégration de l'API Mistral pour des copilotes IA (résumés, insights en langage naturel) dans mes applications data, approfondissement des architectures RAG
+- 🔄 **Orchestration** : pipelines automatisés avec Docker/Spark, montée en compétence sur Airflow
 
 ---
 
