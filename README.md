@@ -1,5 +1,5 @@
 <h1 align="center">👋 Eli-joël-emile ESSONO-NZOGHE</h1>
-<h3 align="center">🛠️ Architecte en Intelligence Artificielle | Data Engineer | AI Engineer</h3>
+<h3 align="center">🛠️ Architecte Data &amp; IA | Data Engineer | AI Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Architecte+IA+%7C+AI+Engineer+%7C+Data+Engineer;Pipeline+ETL%2FELT+%7C+Batch+%26+Temps+r%C3%A9el+%7C+Cloud;Machine+Learning+%7C+MLOps+%7C+Kafka+%7C+Airflow" alt="Typing SVG" />
