@@ -180,6 +180,10 @@ et tournent sur des infrastructures réellement déployées (AWS, Scaleway, Dock
     <img src="https://img.shields.io/badge/Email-nzoghessono%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/eli-jo%C3%ABl-emile-essono-nzoghe/">
+    <img src="https://img.shields.io/badge/LinkedIn-Eli--jo%C3%ABl--emile_ESSONO--NZOGHE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/Elijoelemile">
     <img src="https://img.shields.io/badge/GitHub-Elijoelemile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
