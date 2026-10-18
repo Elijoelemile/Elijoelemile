@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+ML+Developer;Pipeline+ETL+%7C+Cloud+AWS+%7C+Data+Lake+and+Warehouse;Machine+Learning+%7C+PySpark+%7C+Streamlit;En+formation+%3A+Architecte+en+Intelligence+Artificielle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+ML+Developer;Pipeline+ETL+%7C+Cloud+AWS+%7C+Data+Lake+%26+Data+Warehouse;Machine+Learning+%7C+PySpark+%7C+Streamlit;En+formation+%3A+Architecte+en+Intelligence+Artificielle" alt="Typing SVG" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ de l'extraction des données brutes jusqu'à la visualisation et la prise de dé
 ## 🚀 Projets phares
 
 ### 🏀 Analyse & Prédiction de Revenus — Paris Basketball
-> Pipeline ELT complet (Extract → Load → Stage → Transform) sur cluster Spark conteneurisé, avec modélisation en schéma en étoile, prédiction de revenus et dashboards interactifs
+> Pipeline ELT complet (Extract → Load → Stage → Transform) sur cluster Spark conteneurisé, avec modélisation en schéma en étoile, prédiction de revenus et dashboards interactifs<br>
 > Orchestrateur Python planifié quotidiennement, couche "gold" agrégée, résumés générés par IA (API Mistral) sans besoin de relancer le pipeline
 >
 > ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
@@ -76,7 +76,7 @@ de l'extraction des données brutes jusqu'à la visualisation et la prise de dé
 ---
 
 ### ✈️ Optimisation de la Performance Commerciale — Yield Management
-> Application d'analyse pour un tour-opérateur (NG Travel) : ~18 600 réservations sur 2 saisons, pipeline ETL (Excel → Data Lake → Data Warehouse Parquet), enrichissement de 17 à 41 variables
+> Application d'analyse pour un tour-opérateur (NG Travel) : ~18 600 réservations sur 2 saisons, pipeline ETL (Excel → Data Lake → Data Warehouse Parquet), enrichissement de 17 à 41 variables<br>
 > 8 pages d'analyse (tendances temporelles, destinations, canaux de distribution, pricing, recommandations) + copilote IA en langage naturel (API Mistral)
 >
 > ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -102,7 +102,7 @@ de l'extraction des données brutes jusqu'à la visualisation et la prise de dé
 ---
 
 ### 🔮 Prédiction du Churn Client — Machine Learning
-> Modèle ML de prédiction de résiliation client dans le secteur télécom (7 043 observations)
+> Modèle ML de prédiction de résiliation client dans le secteur télécom (7 043 observations)<br>
 > Modèles : Logistic Regression · Random Forest · Decision Tree
 >
 > ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
